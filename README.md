@@ -11,3 +11,4 @@ Madlibs are short and silly stories with blanks that are filled in based on your
 * HTML
 * CSS
 * Javascript
+* JQuery
